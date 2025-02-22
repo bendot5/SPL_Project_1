@@ -20,5 +20,8 @@ This project is a C++ simulation of a settlement construction system, focusing o
 
 ## Installation & Usage
 
+```sh
 make
 ./simulation config.txt
+```
+
