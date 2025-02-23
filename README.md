@@ -24,4 +24,5 @@ This project is a C++ simulation of a settlement construction system, focusing o
 make
 ./simulation config.txt
 ```
+## For further instructions about testing the functionality of the code : advice me 052-7323229 / bendotan52@gmail.com
 
